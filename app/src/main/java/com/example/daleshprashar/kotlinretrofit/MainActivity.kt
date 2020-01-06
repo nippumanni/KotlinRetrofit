@@ -79,4 +79,9 @@ class MainActivity : AppCompatActivity() {
         return jsonObje
 
     }
+
+    fun addedToTest():String
+    {
+        return "hopefullysuccess"
+    }
 }
